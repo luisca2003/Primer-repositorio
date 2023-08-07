@@ -1,2 +1,2 @@
-# Primer-repositorio
+# Primer README
 primer repositorio en el curso
